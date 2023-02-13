@@ -1,0 +1,12 @@
+Clone a repo by typing "git clone SSH github link "
+
+Create a new directory via "mkdir"
+
+cd into directory
+
+git remote -v ---> will display the repository created on GitHub
+
+create a file into the directory by using the command "touch hello_world.txt"
+
+In order to see the status "git status" 
+
